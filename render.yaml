@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: super-agent-landing
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
